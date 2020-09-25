@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43d9f5a9-6176-4e29-b743-b2516dc4782b" name="Default Changelist" comment="" />
+    <list default="true" id="43d9f5a9-6176-4e29-b743-b2516dc4782b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AnalysisFiles/Preprocess-Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AnalysisFiles/Preprocess-Data.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/path.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SourceCode/process_data_for_annotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-287">
+            <state>
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -44,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SourceCode/retrieve_data_from_tagtog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1004">
+            <state>
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -55,7 +57,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SourceCode/sample_data_for_annotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
+            <state>
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -140,7 +142,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -178,12 +180,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/utils.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/SourceCode/process_data_for_annotation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-287">
+        <state>
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -192,16 +191,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SourceCode/retrieve_data_from_tagtog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1004">
+        <state>
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/SourceCode/sample_data_for_annotation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
+        <state>
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
