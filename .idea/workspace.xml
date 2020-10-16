@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43d9f5a9-6176-4e29-b743-b2516dc4782b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AnalysisFiles/Preprocess-Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AnalysisFiles/Preprocess-Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnalysisFiles/SATP_annotation_analysis_JO_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AnalysisFiles/SATP_annotation_analysis_JO_v2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Events/source.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Events/source.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Events/target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Events/target.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,6 +112,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,7 +146,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

@@ -1,20 +1,165 @@
-ALP,Police
+﻿pilots,Airports and Aircraft 
+AIUDF,All India United Democratic Front (AIUDF)
+All India United Democratic Front,All India United Democratic Front (AIUDF)
+BJP,Andhra Pradesh
 ANP,Awami National Party
-AP,Police
-AR,Military
-ASI,Police
-Adaba Police,Police
-Afghan Local Police,Police
-Afghan Local Policemen,Police
+Awami National Party,Awami National Party
+Bharatiya Janata Party,Bharatiya Janata Party
+Artisan Restaurant,Business
+automobile company,Business
+Bangladesh Commerce Bank,Business
+gas exploration company,Business
+grocery store,Business
+Mandal Hotel,Business
+manufacturing unit,Business
+market place,Business
+miner,Business
+miners,Business
+paver machine,Business
+pipelines,Business
+road roller,Business
+road roller machine,Business
+shops,Business
+show room,Business
+trade,Business
+Zaiqa Cafeteria,Business
+labourers,Business
+Communist Party of India Maoist,Communist Party of India Maoist (CPI M)
+CPI M,Communist Party of India Maoist (CPI M)
+CPI Maoist,Communist Party of India Maoist (CPI M)
+Communist Party of Nepal Maoist Centre,Communist Party of Nepal Maoist (CPN)
+CPN,Communist Party of Nepal Maoist (CPN)
+criminals,Criminal
+gangster,Criminal
+ringleader,Criminal
+Assistant Professor,Educational Institution 
+girls  schools,Educational Institution 
+girls?¢Ç«®Ç—¢ schools,Educational Institution 
+Government Middle School,Educational Institution 
+Government school,Educational Institution 
+Headmaster,Educational Institution 
+headmaster,Educational Institution 
+Muslim Children Academy School,Educational Institution 
+Muslim Children Academy school,Educational Institution 
+Principal,Educational Institution 
+principal of University Law College Quetta,Educational Institution 
+Rajshahi University teacher Professor,Educational Institution 
+Regional Institute of Medical Sciences,Educational Institution 
+RIMS,Educational Institution 
+School,Educational Institution 
+school,Educational Institution 
+school building,Educational Institution 
+school buildings,Educational Institution 
+schools,Educational Institution 
+student,Educational Institution 
+teacher,Educational Institution 
+Kuda Cold Storage,Food and Water Supply
+water tank,Food and Water Supply
+Afghan consulate official,Government - Diplomatic
+Counter Terrorism Department,Government - General
+polling observers,Government - General
+Additional District Magistrate,Government - General
+ADM,Government - General
+APCC,Government - General
+Bijapur Zila Panchayat,Government - General
+Chief Minister,Government - General
+CM,Government - General
+councilor of Northern Provincial Council,Government - General
+CTD,Government - General
+CTD officials,Government - General
+deputy head of village level local self government institution,Government - General
+deputy sarpanch,Government - General
+Development Authority,Government - General
+District Education Office,Government - General
+education minister,Government - General
+Education Minister,Government - General
+FATA,Government - General
+FDA,Government - General
+Federally Administered Tribal Areas,Government - General
+former Doomdooma Member of Legislative Assembly,Government - General
+former legislator,Government - General
+government buildings,Government - General
+Government officials,Government - General
+Governor,Government - General
+head of Kabul Ulema Council,Government - General
+head of village level local self government institution,Government - General
+IB,Government - General
+Intelligence Bureau,Government - General
+Jargo panchayat,Government - General
+judicial first class magistrate court,Government - General
+Kailali Constituency No 4,Government - General
+leader,Government - General
+Manipur Chief Minister,Government - General
+Marri tribal leader,Government - General
+Member of Legislative Assembly,Government - General
+Member Provincial Assembly,Government - General
+minister,Government - General
+Minister,Government - General
+MLA,Government - General
+MPA,Government - General
+National Directorate of Security,Government - General
+National Mineral Development Corporation,Government - General
+National Party leader,Government - General
+NDS,Government - General
+NMDC,Government - General
+NPC,Government - General
+Odisha Government officials,Government - General
+Officer,Government - General
+official,Government - General
+Panchayat Ghar,Government - General
+paramilitary personnel,Government - General
+president,Government - General
+President,Government - General
+pro Government peace committee,Government - General
+Public Works Minister,Government - General
+sarpanch,Government - General
+secretary of Assam Pradesh Congress Committee,Government - General
+SHO,Government - General
+son of former Prime Minister,Government - General
+Special Operation Group,Government - General
+Special Task Force,Government - General
+STF,Government - General
+Survey Office,Government - General
+survey office,Government - General
+Sylhet Divisional Speedy Trial Tribunal judge,Government - General
+The Counter Terrorism Department,Government - General
+Tourism department,Government - General
+village level local self government institution,Government - General
+Manipur NPF MLA,Government - General
+Wolesi Jirga,Government - General
+Jama?¢Ç«®Ç—¢at ud Dawa,Jamaat ud Dawa (JuD)
+JuD,Jamaat ud Dawa (JuD)
+Neo JMB,Jamaatul Mujahidin Bangladesh (JMB)
+Jama?¢Ç«®Ç—¢at Ahmadiyya,Jamat Ahmadiyya
+Jamiat Ulema e Islam Fazl,Jamiat Ulema e Islam Fazl (JUI F)
+JUI F,Jamiat Ulema e Islam Fazl (JUI F)
+Jatiyo Samajtantrik Dal,Jatiyo Samajtantrik Dal (JSD)
+JSD,Jatiyo Samajtantrik Dal (JSD)
+Jharkhand Jan Mukti Parishad,Jharkhand Jan Mukti Parishad (JJMP)
+JJMP,Jharkhand Jan Mukti Parishad (JJMP)
+journalist,Journalist and Media
+killed,Journalist and Media
+Khasadars,Khasadars
+Kuki Underground,Kuki Underground
+Lashkar i Islam,Lashkar i Islam
+LI,Lashkar i Islam
+Left Wing Extremists,Left Wing Extremists (LWE)
+LWE,Left Wing Extremists (LWE)
+LWEs,Left Wing Extremists (LWE)
+Maoist Centre leader,Maoist
+former Maoist,Maoist 
+41 RR,Military
 Afghan Security Forces,Military
 Afghan Special Forces,Military
-Afghan Taliban,Terrorist
-Afghan consulate official,Government
-Andhra Pradesh,Unknown
+AR,Military
+Armed Forces,Military
 Army,Military
+army,Military
 Army base,Military
 Army convoy,Military
+army convoy,Military
 Army jawan,Military
+Army officer,Military
 Army party,Military
 Army patrol party,Military
 Army patrolling jeep,Military
@@ -23,587 +168,441 @@ Army positions,Military
 Army soldier,Military
 Army soldiers,Military
 Army vehicle,Military
-Armyâ€™s 47 RR,Military
-Artisan Restaurant,Business
+Army?¢Ç«®Ç—¢s 47 RR,Military
+Assam Riffles,Military
 Assam Rifles,Military
-Assistant Sub Inspector,Police
-Awami National Party,Awami National Party
-BJP,Bharatiya Janata Party
-BSF,Military
 Bangladeshi Navy,Military
-Bengali police,Police
-Bharatiya Janata Party,Bharatiya Janata Party
-Bindeshwar,Unknown
+bomb disposal squad,Military
 Border Security Force,Military
+BSF,Military
 CAF,Military
-CM,Government
-CPI Maoist,Communist Party of India Maoist
-CPN,Communist Party of Nepal Maoist
-CPRF,Military
-CRPF,Military
-CRPF patrol,Military
-CTD,Government
 Captain of the Army,Military
-Central Reserve Police Force,Police
-Central Reserve Police Force CRPF,Police
+Central Industry Security Force,Military
+Central Reserve Police Force,Military
+Central Reserve Police Force CRPF,Military
 Chhattisgarh Armed Force,Military
-Chhattisgarh Police,Police
-Chief Minister,Government
-Chinese couple,Tourist
-Chinese national,Tourist
-Chinese nationals,Tourist
-Christian Colony of Peshawar,Relegious Institution
+CISF,Military
 CoBRA,Military
 CoBRA Commando Battalion,Military
+commander,Military
 Commander in Chief,Military
 Commando Battalion for Resolute Action,Military
 Commando Battalion of Resolute Action,Military
-Communist Party of India Maoist,Terrorist
-Communist Party of Nepal Maoist Centre,Terrorist
+commandos,Military
+CPRF,Military
+CRPF,Military
+CRPF patrol,Military
+e The Security Forces,Military
+FC,Military
+FC personnel,Military
+Frontier Constabulary,Military
+Frontier Corps,Military
+Gorkha Rifles,Military
+GR,Military
+guard,Military
+guards,Military
+Hmar National Army,Military
+HNA,Military
+IDP,Military
+Indian Army,Military
+Indian Reserve Battalion,Military
+Indian soldiers,Military
+IRB,Military
+jawan,Military
+Jawans,Military
+jawans,Military
+joint search party,Military
+Khasadar force,Military
+Khasdar official,Military
+Khassadar,Military
+KRA,Military
+Kuki Revolutionary Army,Military
+lieutenant colonel,Military
+Manipur Rifles,Military
+militant,Military
+militants,Military
+military commander,Military
+Military Police,Military
+Officer in Charge,Military
+OIC,Military
+Pakistan army,Military
+Pakistani troopers,Military
+Panzgam Army,Military
+patrol,Military
+Personal Security Officer,Military
+personnel,Military
+Personnel,Military
+Rangers,Military
+Rangers check post,Military
+retired solider,Military
+retired subedar,Military
+RR,Military
+Salahuddin Levies,Military
+Sashastra Seema Bal,Military
+search party,Military
+security,Military
+Security,Military
+security convoy,Military
+Security Force,Military
+Security Forces,Military
+security forces,Military
+Security Guards,Military
+security guards,Military
+security men,Military
+security personnel,Military
+senior leader,Military
+senior officer,Military
+SF,Military
+SF personnel,Military
+SFs,Military
+snipers,Military
+Soldier,Military
+soldier,Military
+Soldiers,Military
+soldiers,Military
+solider,Military
+SP,Military
+Special Force,Military
+SPO,Military
+SSB,Military
+SWAT,Military
+SWAT personnel,Military
+The Sangai Express Troops,Military
+Three Border Security Force,Military
+tits troopers,Military
+trooper,Military
+troopers,Military
+Troops,Military
+troops,Military
+Uri Army camp,Military
+MQM,Muttahida Qaumi Movement (MQM)
+Muttahida Qaumi Movement,Muttahida Qaumi Movement (MQM)
+Naga,Naga National Council (NNC)
+Naga National Council,Naga National Council (NNC)
+Nagas,Naga National Council (NNC)
+NNC NA,Naga National Council (NNC)
+National Conference,National Conference (NC)
+National Conference leader,National Conference (NC)
+NC,National Conference (NC)
+NC leader,National Conference (NC)
+National Socialist Council of Nagaland,National Socialist Council of Nagaland (NSCN)
+NSCN R),National Socialist Council of Nagaland (NSCN)
+Naxal Left Wing Extremism,Naxal Left Wing Extremism
+Jammu Kashmir Entrepreneurship Development Institute,NGO
+JKEDI,NGO
+World Vision International Nepal?¢Ç«®Ç—¢s Office,NGO
+i,Not categorized
+Andhra Pradesh,Not categorized
+Kohistan District,Not categorized
+JCB,Not categorized
+JCBs,Not categorized
+Line of Control,Not categorized
+LoC,Not categorized
+ambush party,Not categorized
+Bindeshwar,Not categorized
+Fidayeen,Not categorized
+Karkanai,Not categorized
+Levies,Not categorized
+MAC,Not categorized
+NotSpecified,Not categorized
+PSOs,Not categorized
+PTC,Not categorized
+Kurram Agency Pakistan People?¢Ç«®Ç—¢s Party,Pakistan People Party (PPP)
+Pakistan People?¢Ç«®Ç—¢s Party,Pakistan People Party (PPP)
+PPP,Pakistan People Party (PPP)
+Pakistan Sunni Tehreek,Pakistan Sunni Tehreek (PST)
+PST,Pakistan Sunni Tehreek (PST)
+Pakistan Tehreek e Insaf,Pakistan Tehreek e Insaf (PTI)
+Pakistan Tehreek i Insaf,Pakistan Tehreek e Insaf (PTI)
+PTI,Pakistan Tehreek e Insaf (PTI)
+PDP,People Democratic Party (PDP)
+People?¢Ç«®Ç—¢s Democratic Party,People Democratic Party (PDP)
+Peoples liberation front of India,Peoples liberation front of India (PLFI)
+PLFI,Peoples liberation front of India (PLFI)
+Adaba Police,Police
+Afghan Local Police,Police
+Afghan Local Policemen,Police
+Afghan Policemen,Police
+ALP,Police
+AP,Police
+ASI,Police
+ASP,Police
+Assam Police,Police
+assistant constable,Police
+Assistant Sub Inspector,Police
+Assistant Superintendent of Police,Police
+Bengali police,Police
+captains,Police
+check post,Police
+Chhattisgarh Police,Police
+chief,Police
+Coast Guard,Police
+constable,Police
 Constable,Police
 Constable driver,Police
+constables,Police
 Constables,Police
-Counter Terrorism Departmen,Government
-Counter Terrorism Department,Government
-Crusader foreigners,Tourist
-DGP,Police
-DRG,Police
-Danapur Durg Express train,Transportation
+cops,Police
 Deputy Superintendent of Police Noor,Police
+DGP,Police
 Director General of Police,Police
 District Force,Police
 District Police,Police
 District Reserve Group,Police
 District Reserve Guard,Police
-Driver,Private Citizen and Property
+DRG,Police
 Driver of a Police officer,Police
-FC,Military
-FC personnel,Military
-Fidayeen,Unknown
-Frontier Constabulary,Military
-Frontier Corps,Military
-Governor,Government
-HNA,Military
+fuel tanker,Police
+Hawk Force of State Police,Police
+head Constable,Police
+head constable,Police
 Head Constable,Police
-Headmaster,Educational Institution 
-Hindu priest,Relegious Institution
-Hmar National Army,Military
-IB,Government
-IDP,Military
-IRB,Military
-Indian Army,Military
-Indian Reserve Battalion,Military
-Indian soldiers,Military
-Intelligence Bureau,Government
-JCB,JCB
-JCBs,JCB
-JKEDI,NGO
-JSD,Jatiyo Samajtantrik Dal
-JUI F,Jamiat Ulema e Islam Fazl
-Jamiat Ulema e Islam Fazl,Jamiat Ulema e Islam Fazl
-Jammu Kashmir Entrepreneurship Development Institute,NGO
-Jatiyo Samajtantrik Dal,Jatiyo Samajtantrik Dal
-Jawans,Military
-Kailali Constituency No 4,Government
-Karkanai,Unknown
-Khasadar force,Military
-Khasdar official,Military
-Khassadar,Military
-Kohistan District,Unknown
+Intelligence Officer of the Chakiwara Police Station,Police
 Kokrajhar Police,Police
-Kuda Cold Storage,Food and Water Supply
-LI,Lashkar i Islam
-LWE,Left Wing Extremists
-LWEs,Left Wing Extremists
-Lashkar i Islam,Lashkar i Islam
-Left Wing Extremists,Left Wing Extremists
-Line of Control,Line of Control
-LoC,Line of Control
-MPA,Government
-MQM,Muttahida Qaumi Movement
-Mandal Hotel,Business
-Manipur Chief Minister,Government
-Manipur Rifles,Military
-Maoist Centre leader,Maoist
+law enforcement,Police
+Meghalaya Police,Police
 Meghalaya Police Operation Camp,Police
-Member Provincial Assembly,Government
-Military Police,Military
-Minister,Government
-Muttahida Qaumi Movement,Muttahida Qaumi Movement
-NC,National Conference
-NC leader,National Conference
-NDS,Government
-NMDC,Government
-NNC NA,Naga National Council
-NPC,Government
-Naga,Naga National Council
-Naga National Council,Naga National Council
-Nagas,Naga National Council
-National Conference,National Conference
-National Conference leader,National Conference
-National Directorate of Security,Government
-National Mineral Development Corporation,Government
-National Party leader,Government
-Naxal Left Wing Extremism,Naxal Left Wing Extremism
-Neo JMB,Neo JMB
+naka party,Police
 New Sariab Police Training College,Police
-NotSpecified,Unknown Target
-Odisha Government officials,Government
-Officer,Government
-PBCP,Purbo Banglar Communist Party
-PDP,People Democratic Party
-PTC,Unknown
-Pakistan army,Military
-Pakistani troopers,Military
-Panchayat Ghar,Government
-Panzgam Army,Military
-Peopleâ€™s Democratic Party,People Democratic Party
-Personal Security Officer,Government
-Personnel,Military
+officer,Police
+officers,Police
+personnel of 18th Armed Police Battalion of J K Police,Police
 Police,Police
+police,Police
 Police Checkpoints,Police
-Police Constable,Police
-Police Officer,Police
-Police Post,Police
-Police Station Chief,Police
 Police checkpoints,Police
+Police combing party,Police
 Police commandos,Police
+Police Constable,Police
+Police constable,Police
+Police Constables,Police
 Police informer,Police
+police informer,Police
+Police jawan,Police
 Police man,Police
 Police mobile,Police
+police mobile,Police
 Police mobile van,Police
+Police Officer,Police
+Police Officers,Police
+police official,Police
+Police Official,Police
 Police party,Police
+police party,Police
+Police patrol party,Police
 Police patrolling party,Police
 Police personnel,Police
+Police Post,Police
 Police post,Police
+Police Station Chief,Police
+Police Sub Inspector,Police
 Police team,Police
+police van,Police
+Police vehicle,Police
 Policeman,Police
 Policemen,Police
-Public Works Minister,Government
-Purba Bangla Communist Party,Purbo Banglar Communist Party
+policemen,Police
 RAB,Police
-RIMS,Educational Institution 
-RR,Military
-Rajshahi University teacher Professor,Educational Institution 
-Rangers,Military
-Rangers check post,Military
 Rapid Action Battalion,Police
-Regional Institute of Medical Sciences,Educational Institution 
-Road and Buildings,Transportation
-SF,Military
-SF personnel,Military
-SFs,Military
-SHO,Government
 SI,Police
 SOG,Police
-SP,Military
-SPO,Military
-SSB,Military
-STF,Government
-SUV,Transportation
-SWAT,Military
-SWAT personnel,Military
-Salahuddin Levies,Military
-Salesman,Private Citizen and Property
-Sashastra Seema Bal,Military
-School,Educational Institution 
-Security,Military
-Security Force,Military
-Security Forces,Military
-Security Guards,Military
-Sikh woman,Private Citizen and Property
-Soldier,Military
-Soldiers,Military
-Son,Private Citizen and Property
-Special Force,Military
 Special Operations Group,Police
 Special Operations Group of Jammu and Kashmir Police,Police
 Special Police Officer,Police
-Special Task Force,Government
 State Police head constable,Police
-Station House Officer,Government
+Station House Officer,Police
 Sub Inspector,Police
 Superintendent of Police,Police
-Survey Office,Government
-Sylhet Divisional Speedy Trial Tribunal judge,Government
-TJ,Tablighi Jamaat
-TPC,Tritiya Prastuti Committee
-Tablighi Jamaâ€™at,Tablighi Jamaat
-The Sangai Express Troops,Military
-Three Border Security Force,Military
 Traffic Police personnel,Police
-Tritiya Prastuti Committee,Tritiya Prastuti Committee
-Troops,Military
-Vigilanceâ€™s drive,Transportation
-Wolesi Jirga,Wolesi Jirga
-World Vision International Nepalâ€™s Office,Government
-accountant,Private Citizen and Property
-activist,Private Citizen and Property
-army,Military
-automobile company,Business
-bomb disposal squad,Military
-boy,Private Citizen and Property
-boys,Private Citizen and Property
-building,Private Citizen and Property
-bus,Transportation
-businessman,Private Citizen and Property
-cadre,Violent Political Parties
-cadres,Violent Political Parties
-camp,Private Citizen and Property
-candidate,Private Citizen and Property
-caretaker,Private Citizen and Property
-cars,Transportation
-check post,Police
-child,Private Citizen and Property
-children,Private Citizen and Property
-civilian,Private Citizen and Property
-civilians,Private Citizen and Property
-colleagues,Private Citizen and Property
-colony,Private Citizen and Property
-commander,Military
-commandos,Military
-constable,Military
-constables,Military
-construction camp,Private Citizen and Property
-construction company staff,Private Citizen and Property
-construction site,Private Citizen and Property
-contractor,Private Citizen and Property
-contractors,Private Citizen and Property
-cops,Police
-councilor of Northern Provincial Council,Government
-couple,Private Citizen and Property
-criminals,Unknown
-daughter,Private Citizen and Property
-deputy sarpanch,Government
-disbelievers,Private Citizen and Property
-doctor,Private Citizen and Property
-driver,Private Citizen and Property
-drivers,Private Citizen and Property
-e The Security Forces,Military
-elder,Private Citizen and Property
-employee,Private Citizen and Property
-employees,Private Citizen and Property
-engineer,Private Citizen and Property
-equipments,Private Citizen and Property
-family,Private Citizen and Property
-five storey building,Private Citizen and Property
-foreigner,Private Citizen and Property
-foreigners,Private Citizen and Property
-former Maoist,Maoist 
-former legislator,Government
-fuel tanker,Police
-garage,Private Citizen and Property
-gas exploration company,Business
-girls  schools,Educational Institution 
-girlsâ€™ schools,Educational Institution 
-granddaughter,Private Citizen and Property
-grocery store,Business
-guard,Military
-guards,Military
-guests,Private Citizen and Property
-head Constable,Military
-head constable,Military
-head of Kabul Ulema Council,Government
-head of village level local self government institution,Government
-homeopath,Private Citizen and Property
-hostages,Private Citizen and Property
-house,Private Citizen and Property
-houses,Private Citizen and Property
-husband,Private Citizen and Property
-jawan,Military
-jawans,Military
-joint search party,Military
-journalist,Journalist and Media
-killed,Journalist and Media
-labourers,Unknown
-law enforcers,Government
-lawyers,Private Citizen and Property
-leader,Government
-lieutenant colonel,Military
-local women pressure group,Violent Political Parties
-local womenâ€™s pressure group,Violent Political Parties
-machineries,Private Citizen and Property
-machinery,Private Citizen and Property
-machines,Private Citizen and Property
-man,Private Citizen and Property
-manufacturing unit,Business
-market place,Business
-member,Private Citizen and Property
-militant,Military
-militants,Military
-military commander,Military
-miner,Military
-miners,Military
-minister,Government
-mixture machine,Private Citizen and Property
+20 year old youth,Private Citizens and Property
+accomplices,Private Citizens and Property
+accountant,Private Citizens and Property
+activist,Private Citizens and Property
+bank officials,Private Citizens and Property
+boy,Private Citizens and Property
+boys,Private Citizens and Property
+building,Private Citizens and Property
+buildings,Private Citizens and Property
+businessman,Private Citizens and Property
+camp,Private Citizens and Property
+candidate,Private Citizens and Property
+caretaker,Private Citizens and Property
+child,Private Citizens and Property
+children,Private Citizens and Property
+Chinese couple,Private Citizens and Property
+Chinese national,Private Citizens and Property
+Chinese nationals,Private Citizens and Property
+Christian grocer,Private Citizens and Property
+civilian,Private Citizens and Property
+civilian driver,Private Citizens and Property
+civilians,Private Citizens and Property
+clients,Private Citizens and Property
+colleagues,Private Citizens and Property
+colony,Private Citizens and Property
+construction camp,Private Citizens and Property
+construction company staff,Private Citizens and Property
+construction site,Private Citizens and Property
+contractor,Private Citizens and Property
+contractors,Private Citizens and Property
+couple,Private Citizens and Property
+Crusader foreigners,Private Citizens and Property
+daughter,Private Citizens and Property
+Debnath,Private Citizens and Property
+disbelievers,Private Citizens and Property
+doctor,Private Citizens and Property
+Doli bearers,Private Citizens and Property
+Driver,Private Citizens and Property
+driver,Private Citizens and Property
+drivers,Private Citizens and Property
+elder,Private Citizens and Property
+employee,Private Citizens and Property
+employees,Private Citizens and Property
+engineer,Private Citizens and Property
+equipments,Private Citizens and Property
+family,Private Citizens and Property
+five storey building,Private Citizens and Property
+foreigner,Private Citizens and Property
+foreigners,Private Citizens and Property
+founder,Private Citizens and Property
+garage,Private Citizens and Property
+gardener,Private Citizens and Property
+girl,Private Citizens and Property
+granddaughter,Private Citizens and Property
+guests,Private Citizens and Property
+health workers,Private Citizens and Property
+homeopath,Private Citizens and Property
+hostages,Private Citizens and Property
+houbara bustard hunters,Private Citizens and Property
+house,Private Citizens and Property
+houses,Private Citizens and Property
+husband,Private Citizens and Property
+Indians,Private Citizens and Property
+lady,Private Citizens and Property
+lawyers,Private Citizens and Property
+locals,Private Citizens and Property
+machineries,Private Citizens and Property
+machinery,Private Citizens and Property
+machines,Private Citizens and Property
+man,Private Citizens and Property
+member,Private Citizens and Property
+men,Private Citizens and Property
+mixture machine,Private Citizens and Property
+navigator,Private Citizens and Property
+non local masons,Private Citizens and Property
+non locals,Private Citizens and Property
+NP office,Private Citizens and Property
+office building,Private Citizens and Property
+operator,Private Citizens and Property
+others,Private Citizens and Property
+owner of a restaurant,Private Citizens and Property
+passer,Private Citizens and Property
+passerby,Private Citizens and Property
+passers,Private Citizens and Property
+Pengaree Tea Estate,Private Citizens and Property
+people,Private Citizens and Property
+person,Private Citizens and Property
+persons,Private Citizens and Property
+polio worker,Private Citizens and Property
+polio workers,Private Citizens and Property
+porters,Private Citizens and Property
+private guest house,Private Citizens and Property
+private medial practitioner,Private Citizens and Property
+relatives,Private Citizens and Property
+resident,Private Citizens and Property
+resident of Sonpur village,Private Citizens and Property
+resident of Wako village,Private Citizens and Property
+residents,Private Citizens and Property
+road construction workers,Private Citizens and Property
+salesman,Private Citizens and Property
+Salesman,Private Citizens and Property
+shopkeeper,Private Citizens and Property
+Sikh woman,Private Citizens and Property
+site,Private Citizens and Property
+solar tube well,Private Citizens and Property
+Son,Private Citizens and Property
+son,Private Citizens and Property
+sons,Private Citizens and Property
+staff,Private Citizens and Property
+supporter,Private Citizens and Property
+suspected member,Private Citizens and Property
+sympathiser,Private Citizens and Property
+TE,Private Citizens and Property
+toddler,Private Citizens and Property
+trader,Private Citizens and Property
+traders,Private Citizens and Property
+tribal,Private Citizens and Property
+tribal chief,Private Citizens and Property
+tribal elder,Private Citizens and Property
+tribal youth,Private Citizens and Property
+tribals,Private Citizens and Property
+tribesman,Private Citizens and Property
+truck driver,Private Citizens and Property
+unarmed civilians,Private Citizens and Property
+village headman,Private Citizens and Property
+villager,Private Citizens and Property
+villagers,Private Citizens and Property
+villages,Private Citizens and Property
+wife,Private Citizens and Property
+woman,Private Citizens and Property
+woman councilor,Private Citizens and Property
+women,Private Citizens and Property
+worker,Private Citizens and Property
+workers,Private Citizens and Property
+youth,Private Citizens and Property
+youth leader,Private Citizens and Property
+youths,Private Citizens and Property
+PBCP,Purbo Banglar Communist Party (PBCP)
+Purba Bangla Communist Party,Purbo Banglar Communist Party (PBCP)
+Purbo Banglar Communist Party,Purbo Banglar Communist Party (PBCP)
+Catholic priest,Religious Fugures/Institutions
+Christian Colony of Peshawar,Religious Fugures/Institutions
+Hindu priest,Religious Fugures/Institutions
+imambargah shia place of worship,Religious Fugures/Institutions
+Missionaries of Charity run retirement home,Religious Fugures/Institutions
+mosques,Religious Fugures/Institutions
+nuns,Religious Fugures/Institutions
+Pir,Religious Fugures/Institutions
+prayer leader,Religious Fugures/Institutions
+priest,Religious Fugures/Institutions
+religious scholars,Religious Fugures/Institutions
+shrine of Pir Ziarat,Religious Fugures/Institutions
+Spiritual Mentor,Religious Fugures/Institutions
+Tablighi Jama?¢Ç«®Ç—¢at,Tablighi Jamaat (TJ)
+TJ,Tablighi Jamaat (TJ)
+Afghan Taliban,Taliban
 mobile tower,Telecommunication
-mosques,Relegious Institution
-naka party,naka party
-navigator,Private Citizen and Property
-non local masons,Private Citizen and Property
-non locals,Private Citizen and Property
-office building,Private Citizen and Property
-officer,Private Citizen and Property
-officers,Private Citizen and Property
-official,Private Citizen and Property
-operator,Private Citizen and Property
-others,Private Citizen and Property
-paramilitary personnel,Government
+TDP,Telugu Desam Party (TDP)
+Telugu Desam Party,Telugu Desam Party (TDP)
+tractor,Transportation
+tractors,Transportation
+bus,Transportation
+car,Transportation
+cars,Transportation
+civil station,Transportation
+coal loaded train,Transportation
+Danapur Durg Express train,Transportation
+diesel engine,Transportation
+law enforcers,Transportation
 passenger bus,Transportation
 passenger train,Transportation
-passer,Private Citizen and Property
-passerby,Private Citizen and Property
-passers,Private Citizen and Property
-patrol,Military
-paver machine,Private Citizen and Property
-people,Private Citizen and Property
-person,Private Citizen and Property
-personnel,Military
-persons,Private Citizen and Property
-pilots,Airports and Aircraft 
-pipelines,Private Citizen and Property
-police,Police
-police mobile,Police
-police official,Police
-police party,Police
-police van,Police
-policemen,Police
-polling observers,Police
-porters,Private Citizen and Property
-president,Government
-priest,Relegious Institution
-principal of University Law College Quetta,Educational Institution 
 private bus,Transportation
-private medial practitioner,Private Citizen and Property
 railway,Transportation
-relatives,Private Citizen and Property
-religious scholars,Relegious Institution
-resident,Private Citizen and Property
-ringleader,Government
-road construction workers,Private Citizen and Property
-road roller,Others
-road roller machine,Others
-salesman,Private Citizen and Property
-sarpanch,Government
-school,Educational Institution 
-school buildings,Educational Institution 
-schools,Educational Institution 
-search party,Military
-security,Military
-security convoy,Military
-security forces,Military
-security guards,Military
-security personnel,Military
-senior leader,Military
-senior officer,Military
-shopkeeper,Private Citizen and Property
-show room,Business
-shrine of Pir Ziarat,Relegious Institution
-site,Private Citizen and Property
-snipers,Military
-soldier,Military
-soldiers,Military
-solider,Military
-son,Private Citizen and Property
-son of former Prime Minister,Government
-staff,Private Citizen and Property
-student,Educational Institution 
-supporter,Private Citizen and Property
-survey office,Government
-sympathiser,Private Citizen and Property
-teacher,Educational Institution 
+railway track,Transportation
+Road and Buildings,Transportation
+road construction site,Transportation
+Sufidsang Road,Transportation
+SUV,Transportation
+taxis,Transportation
 tipper,Transportation
 tipper truck,Transportation
-toddler,Private Citizen and Property
-tractor,Others
-tractors,Others
-trade,Business
-tribal elder,Private Citizen and Property
-tribal youth,Private Citizen and Property
-tribals,Private Citizen and Property
-tribesman,Private Citizen and Property
-trooper,Military
-troopers,Military
-troops,Military
 truck,Transportation
-truck driver,Private Citizen and Property
 trucks,Transportation
-unarmed civilians,Private Citizen and Property
 vehicle,Transportation
 vehicles,Transportation
-villager,Private Citizen and Property
-villagers,Private Citizen and Property
-villages,Private Citizen and Property
-water tank,Food and Water Supply
-wife,Private Citizen and Property
-woman,Private Citizen and Property
-women,Private Citizen and Property
-worker,Private Citizen and Property
-workers,Private Citizen and Property
-youth,Private Citizen and Property
-youth leader,Government
-youths,Private Citizen and Property
-41 RR,Military
-prayer leader,Relegious Institution
-village headman,Government
-headmaster,Educational Institution 
-Assistant Superintendent of Police,Police
-ASP,Police
-Jamaâ€™at ud Dawa,Jamaat ud Dawa
-JuD,Jamaat ud Dawa
-Coast Guard,Police
-NSCN R),National Socialist Council of Nagaland
-National Socialist Council of Nagaland,National Socialist Council of Nagaland
-gardener,Private Citizen and Property
-captains,Military
-law enforcement,Government
-men,Private Citizen and Property
-Levies,Levies
-PTI,Pakistan Tehreek i Insaf
-Pakistan Tehreek i Insaf,Pakistan Tehreek i Insaf
-polio worker,Private Citizen and Property
-tribal,Private Citizen and Property
-JJMP,Jharkhand Jan Mukti Parishad
-Jharkhand Jan Mukti Parishad,Jharkhand Jan Mukti Parishad
-accomplices,Private Citizen and Property
-Christian grocer,Private Citizen and Property
-FATA,Government
-Development Authority,Government
-FDA,Government
-Federally Administered Tribal Areas,Government
-Indians,Private Citizen and Property
-Government school,Educational Institution 
-Additional District Magistrate,Government
-police informer,Police
-ADM,Government
-Assam Police,Police
-security men,Police
-lady,Private Citizen and Property
-health workers,Private Citizen and Property
-Police Constables,Police
-suspected member,Private Citizen and Property
-civilian driver,Private Citizen and Property
-Kuki Revolutionary Army,Military
-KRA,Military
-resident of Wako village,Private Citizen and Property
-resident of Sonpur village,Private Citizen and Property
-founder,Private Citizen and Property
-chief,Military
-PLFI,Peoples liberation front of India
-Peoples liberation front of India,Peoples liberation front of India
-car,Transportation
-buildings,Private Citizen and Property
-Police jawan,Police
-army convoy,Military
-Muslim Children Academy School,Educational Institution 
-Muslim Children Academy school,Educational Institution 
-polio workers,Private Citizen and Property
-Sufidsang Road,Transportation
-NP office,Private Citizen and Property
-Armed Forces,Military
-Hawk Force of State Police,Police
-District Education Office,Government
-trader,Private Citizen and Property
-road construction site,Transportation
-Police patrol party,Police
-tribal chief,Private Citizen and Property
-Army officer,Military
-coal loaded train,Transportation
-diesel engine,Transportation
-deputy head of village level local self government institution,Government
-school building,Educational Institution 
-Tourism department,Government
-Government Middle School,Educational Institution 
-Zaiqa Cafeteria,Business
-solar tube well,Private Citizen and Property
-Khasadars,Khasadars
-Pakistan Peopleâ€™s Party,Pakistan People Party
-PPP,Pakistan People Party
-Meghalaya Police,Police
-locals,Private Citizen and Property
-bank officials,Private Citizen and Property
-clients,Private Citizen and Property
-Bangladesh Commerce Bank,Business
-Uri Army camp,Military
-Pir,Relegious Institution
-Spiritual Mentor,Relegious Institution
-retired solider,Military
-pro Government peace committee,Government
-retired subedar,Military
-Member of Legislative Assembly,Government
-Manipur NPF MLA,Manipur NPF MLA
-Doli bearers,Private Citizen and Property
-government buildings,Government
-judicial first class magistrate court,Government
-civil station,Transportation
-20 year old youth,Private Citizen and Property
-MLA,Government
-APCC,Government
-secretary of Assam Pradesh Congress Committee,Government
-former Doomdooma Member of Legislative Assembly,Government
-village level local self government institution,Government
-Jargo panchayat,Government
-tits troopers,Military
-Police combing party,Police
-President,Government
-Kurram Agency Pakistan Peopleâ€™s Party,Kurram Agency Pakistan People Party
-girl,Private Citizen and Property
-CISF,Military
-Pengaree Tea Estate,Private Citizen and Property
-TE,Private Citizen and Property
-Central Industry Security Force,Military
-Catholic priest,Relegious Institution
-nuns,Relegious Institution
-Missionaries of Charity run retirement home,Relegious Institution
-GR,Military
-Gorkha Rifles,Military
-imambargah shia place of worship,Relegious Institution
-Intelligence Officer of the Chakiwara Police Station,Police
-Police vehicle,Police
-Police Official,Police
-i,Unknown
-ambush party,Unknown
-personnel of 18th Armed Police Battalion of J K Police,Police
-traders,Private Citizen and Property
-private guest house,Private Citizen and Property
-Government officials,Government
-All India United Democratic Front,All India United Democratic Front
-AIUDF,All India United Democratic Front
-The Counter Terrorism Department,Government
-CTD officials,Government
-Pakistan Tehreek e Insaf,Pakistan Tehreek e Insaf
-woman councilor,Private Citizen and Property
-Bijapur Zila Panchayat,Government
-Telugu Desam Party,Telugu Desam Party
-TDP,Telugu Desam Party
-residents,Private Citizen and Property
-Special Operation Group,Government
-owner of a restaurant,Private Citizen and Property
-shops,Business
-Pakistan Sunni Tehreek,Pakistan Sunni Tehreek
-PST,Pakistan Sunni Tehreek
-assistant constable,Police
-gangster,Unknown
-PSOs,Unknown
-MAC,Unknown
-Jamaâ€™at Ahmadiyya,Jamat Ahmadiyya
-Afghan Policemen,Police
-railway track,Transportation
-Police constable,Police
-sons,Private Citizen and Property
-Marri tribal leader,Government
-Kuki Underground,Kuki Underground
-Assistant Professor,Educational Institution 
-education minister,Government
-Education Minister,Government
-CPI M,Communist Party of India Maoist
-Assam Riffles,Military
-Principal,Educational Institution 
-Police Officers,Police
-Police Sub Inspector,Police
-taxis,Transportation
-Officer in Charge,Military
-OIC,Military
-Purbo Banglar Communist Party,Purbo Banglar Communist Party
-houbara bustard hunters,Private Citizen and Property
-Debnath,Private Citizen and Property
+Vigilance?¢Ç«®Ç—¢s drive,Transportation
+TPC,Tritiya Prastuti Committee (TPC)
+Tritiya Prastuti Committee,Tritiya Prastuti Committee (TPC)
+cadre,Violent Political Parties
+cadres,Violent Political Parties
+local women pressure group,Violent Political Parties
+local women?¢Ç«®Ç—¢s pressure group,Violent Political Parties
