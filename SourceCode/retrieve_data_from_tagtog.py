@@ -1,3 +1,12 @@
+"""
+
+    This file downloads annotated data from tagtog and saves intoo a csv file
+
+
+"""
+
+
+
 import requests
 import json
 import pandas as pd

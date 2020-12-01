@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43d9f5a9-6176-4e29-b743-b2516dc4782b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AnalysisFiles/.ipynb_checkpoints/ML-GetRelevantFeature-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnalysisFiles/.ipynb_checkpoints/ML_ActionType_ReducedType-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnalysisFiles/.ipynb_checkpoints/ML_Is_Relevant-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnalysisFiles/ML-GetRelevantFeature.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnalysisFiles/ML_ActionType_ReducedType.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnalysisFiles/ML_Is_Relevant.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnalysisFiles/source.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnalysisFiles/target.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_MachineLearning/action_type_reduced_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_MachineLearning/is_relevant_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCode/crawler_terrorism_articles_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnalysisFiles/ML_ActionType.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AnalysisFiles/ML_ActionType.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnalysisFiles/ML_Data_Process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AnalysisFiles/ML_Data_Process.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AnalysisFiles/Preprocess-Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AnalysisFiles/Preprocess-Data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnalysisFiles/SATP_annotation_analysis_JO_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AnalysisFiles/SATP_annotation_analysis_JO_v2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Events/source.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Events/source.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Events/target.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Events/target.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnalysisFiles/master.csv" beforeDir="false" afterPath="$PROJECT_DIR$/AnalysisFiles/master.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_MachineLearning/action_type_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_MachineLearning/action_type_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/retrieve_data_from_tagtog.py" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/retrieve_data_from_tagtog.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +50,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SourceCode/crawler_terrorism_articles_tags.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SourceCode/process_data_for_annotation.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,15 +73,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SourceCode/retrieve_data_from_tagtog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SourceCode/sample_data_for_annotation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -67,6 +88,16 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/credentials.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constants.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -83,6 +114,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/path.py" />
+        <option value="$PROJECT_DIR$/SourceCode/retrieve_data_from_tagtog.py" />
+        <option value="$PROJECT_DIR$/SourceCode/create_data_for_annotation.py" />
       </list>
     </option>
   </component>
@@ -107,6 +140,11 @@
               <item name="SATP-Event-Classification" type="b2602c69:ProjectViewProjectNode" />
               <item name="SATP-Event-Classification" type="462c0819:PsiDirectoryNode" />
               <item name="Data_Master_NotAnnotateed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SATP-Event-Classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SATP-Event-Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,8 +183,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -157,7 +196,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32982457" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -168,19 +207,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AnalysisFiles/ML_ActionType.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/path.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/create_data_for_annotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -195,15 +228,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SourceCode/retrieve_data_from_tagtog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/utils.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SourceCode/sample_data_for_annotation.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -211,6 +239,31 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credentials.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/create_data_for_annotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/crawler_terrorism_articles_tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
